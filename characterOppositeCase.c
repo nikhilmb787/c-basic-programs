@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-
+	// programing for converting character to the opposite case 
 	char ch;
 
 	printf("\nEnter the character : ");
